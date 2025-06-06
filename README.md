@@ -1,9 +1,8 @@
 # 
 
 <h1 align="center">Hi 👋, I'm Pradhumn</h1>
-<h3 align="center">Where Curiosity Meets Code</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maddy1327&label=Profile%20views&color=0e75b6&style=flat" alt="maddy1327" /> </p>
+<h3 align="center">Keep Calm and Code on!!</h3>
+<img align="right" alt="Coding" width="180" src="https://github.com/user-attachments/assets/1fdbd4f3-e072-4372-8862-8f15ea174e74">
 💫 About Me:
 🔭 Working On: Node.js<br>👯 Collaborating On: JavaScript projects<br>🤝 Need Help With: DSA problems<br>🌱 Learning: JavaScript<br>⚡ Fun Fact: JavaScript was built in just 10 days!
 
