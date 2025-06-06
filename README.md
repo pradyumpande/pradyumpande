@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Pradhumn</h1>
 <h3 align="center">Keep Calm and Code on!!</h3>
-<img align="right" alt="Coding" width="180" src="https://github.com/user-attachments/assets/1fdbd4f3-e072-4372-8862-8f15ea174e74">
+<img align="right" alt="Coding" width="150" height= "150"src="https://github.com/user-attachments/assets/1fdbd4f3-e072-4372-8862-8f15ea174e74">
 💫 About Me:
 🔭 Working On: Node.js<br>👯 Collaborating On: JavaScript projects<br>🤝 Need Help With: DSA problems<br>🌱 Learning: JavaScript<br>⚡ Fun Fact: JavaScript was built in just 10 days!
 
