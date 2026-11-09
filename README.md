@@ -4,7 +4,7 @@
 <h3 align="center">Keep Calm and Code on!!</h3>
 <img align="right" alt="Coding" width="160" height= "160"src="https://github.com/user-attachments/assets/1fdbd4f3-e072-4372-8862-8f15ea174e74">
 💫 About Me:
-🔭 Working On: RAG, Agentic AI solutions and GCP<br>👯 Collaborating On: Agent and cloud projects<br>🤝 Need Help With: DSA problems<br>🌱 Learning: Rag<br>⚡ Fun Fact: The First caht bot was a therapist , i guess we need him back.
+🔭 Working On: RAG, Agentic AI solutions and GCP<br>👯 Collaborating On: Agent and cloud projects<br>🤝 Need Help With: DSA problems<br>🌱 Learning: Rag<br>⚡ Fun Fact: The First chat bot was a therapist , i guess we need him back.
 
 
 ## 🌐 Socials:
